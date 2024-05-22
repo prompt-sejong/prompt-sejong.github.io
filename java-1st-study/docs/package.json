@@ -1,0 +1,19 @@
+{
+  "name": "JavaStudy",
+  "version": "0.0.1",
+  "description": "Prompt! 동아리 Java 1st 스터디 과제모음",
+  "main": "index.js",
+  "authors": {
+    "name": "kyounghwanKim",
+    "email": "kyounghwan1989@gmail.com"
+  },
+  "repository": "/kyounghwanKim",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
