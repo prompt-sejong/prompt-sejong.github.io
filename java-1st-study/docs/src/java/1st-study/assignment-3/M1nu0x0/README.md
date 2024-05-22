@@ -329,7 +329,7 @@ Wrapper Class는 java.lang 패키지에 포함되어 타입을 인수로 전달�
 | char           | Character     |
 | boolean        | Boolean       |
 ## 8.1. Boxing & UnBoxing
-![boxing unboxing](./assets/wrapper%20class.png)
+![boxing unboxing](./assets/wrapperclass.png)
 
 위 그림을 보면 이해가 쉽다. `Primitive Type`에서 `Wapper Class`로 변환하는 과정을 `Boxing`, 그 역을 `UnBoxing`이라 한다.
 ## 8.2. Auto Boxing & Auto UnBoxing
