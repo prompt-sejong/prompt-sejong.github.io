@@ -5,7 +5,7 @@ sidebar: auto
 
 ## 자바가 제공하는 예외 계층 구조
 
-![](./assets/스크린샷%202024-05-24%20오전%201.00.39.png)
+![](./assets/Exception_layer.png)
 
 - **Throwable class**  
 Throwable 클래스는 Java 언어의 모든 오류 및 예외의 슈퍼 클래스  
